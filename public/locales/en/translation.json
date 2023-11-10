@@ -1,0 +1,115 @@
+{
+  "navbar": {
+    "whyWe": "Why us",
+    "howIsWork": "How it works",
+    "advantages": "Advantages",
+    "price": "Cost",
+    "askUs": "Ask us",
+    "choose": "Choose a nutritionist"
+  },
+  "fullscreen": {
+    "title": "Diet for running",
+    "desc": "Get ease and freedom, be the first with a personal nutritionist",
+    "button": "Choose a nutritionist"
+  },
+  "problem": {
+    "mainTitle": "Problems of running without a diet"
+  },
+  "result": {
+    "title": "Better result",
+    "desc": "Proper nutrition really works",
+    "desc2": "With improper nutrition, sports can be harmful to health. And vice versa - a balanced diet, developed taking into account the individual characteristics of a person, helps not only to lose weight and get a great body, but also to achieve incredible results in sports",
+    "button": "Выбрать диетолога"
+  },
+  "proccess": {
+    "mainTitle": "How does it work?",
+    "Post1Title": "Overview of your situation and goals",
+    "Post2Title": "Choose the perfect online nutritionist",
+    "Post3Title": "Get support and motivation",
+    "Post1Desc1": "We will carefully study your eating behavior, lifestyle, health problems and goals",
+    "Post1Desc2": "We pay attention to all health factors, including possible hormonal imbalances and individual food intolerances",
+    "Post2Desc1": "Choose a personal nutritionist from the list formed on the basis of your information from step 1",
+    "Post2Desc2": "You will be able to familiarize yourself with the experience, including professional experience, education, professional approaches and reviews",
+    "Post2Desc3": "The ideal nutritionist is always in touch",
+    "Post3Desc1": "Based on your preferences, weekly results and health needs, the meal plan will be updated weekly",
+    "Post3Desc2": "A nutritionist is always ready to adjust your menu in case you are lacking in certain foods or simply have a sweet tooth"
+  },
+  "sport": {
+    "mainTitle": "Food and sports addiction",
+    "post1Title": "Iron",
+    "post2Title": "Vitamin B",
+    "post3Title": "Vitamin D",
+    "post4Title": "Magnesium",
+    "post1Desc": "Provides endurance and performance. Iron deficiency is the most common problem among athletes",
+    "post2Desc": "With a deficiency, the work of the cardiovascular system is disturbed, there is a risk of a heart attack during the race",
+    "post3Desc": "Deficiency causes a violation of calcium-phosphorus metabolism, hence injuries and fractures",
+    "post4Desc": "Ensures proper muscle function and oxygen absorption"
+  },
+  "personal": {
+    "mainTitle": "Choose a personal online specialist",
+    "post1Month": "Trial Week",
+    "post1Price": "299 UAH",
+    "post1PrevPrice": "389 UAH",
+    "post2Month": "1 month",
+    "post2Price": "1199 UAH",
+    "post2PrevPrice": "1859 UAH",
+    "post3Month": "3 months",
+    "post3Price": "2999 UAH",
+    "post3PrevPrice": "4889 UAH",
+    "post1List1": "Free consultations",
+    "post1List2": "A meal plan based on your preferences and health needs",
+    "post1List3": "First week money back guarantee",
+    "post1List4": "Coaching: a nutrition specialist will monitor your results",
+    "post1List5": "Consultations on sports nutrition",
+    "post1List6": "Free consultations",
+    "button": "Select",
+    "footerText": "*7-day money-back guarantee included with all plans"
+  },
+  "customer": {
+    "mainTitle": "Reviews",
+    "post1Desc1": "I was doing ",
+    "post1Span1": "running to lose weight.",
+    "post1Desc2": " In the end, I managed to achieve high endurance, I managed to burn up to 600 Kcal in one workout. I ran almost every day, more often on the track, less often on the street. But ",
+    "post1Span2": "the weight did not go!",
+    "post1Desc3": " After the first six kilograms lost (from 86 to 80), he 'stalled'. During the next four months of almost daily training, he did not lose a single kilogram!",
+    "post1Span3": "turns out I'm just not eating enough!",
+    "post1Desc4": "I started working with a personal nutritionist that I chose on the service and ",
+    "post1Desc5": " Literally a week later, I got the first result - the scales showed -1.5 kg. And training became more effective and pleasant. I started to get real pleasure from running!",
+    "post1Date": "July 12, 2021",
+    "post1DateDesc": "Nadia, 33 years old",
+
+    "post2Desc1": "I used to be a professional athlete, a track and field athlete. Then I stopped doing it, ",
+    "post2Span1": "moved to an office job,",
+    "post2Desc2": " and as it often happens among athletes, ",
+    "post2Span2": "began to gain weight quickly ",
+    "post2Desc3": "– after all, our metabolism is faster. I decided to return to sports, not for a professional one, but for myself. I thought I knew everything about the diet and the training schedule. But it turned out that I didn't.",
+    "post2Span3": "we developed a personal diet, ",
+    "post2Desc4": "I quickly realized that my training was far from effective, and age had nothing to do with it - I needed professional help. I turned to a professional nutritionist, ",
+    "post2Desc5": " and now I'm training for fun and I'm back in shape.",
+    "post2Date": "February 19, 2021",
+    "post2DateDesc": "Artem, 30 years old"
+  },
+  "fitness": {
+    "title": "There is no common diet",
+    "desc": "When running, it is very important what, how much and when you eat. There is no general diet - the diet should take into account the individual characteristics of the body, metabolic rate, training program. The professional help of a nutritionist who will develop a special training diet for you is very important ",
+    "button": "Choose a nutritionist"
+  },
+  "fitnessPost": {
+    "post1Title": "Energy for Organization",
+    "post1Desc": "It is important to saturate the body carefully before starting training, ideally with complex carbohydrates that provide energy for a long time. Otherwise, you may lose consciousness, injure yourself or even fall into a glycoglycemic coma.",
+    "post2Title": "Danger during training",
+    "post2Desc": "If you overeat before training, even with the first steps the body cannot cope with the double load - digestion of food, metabolic processes and actual physical activity. It starts to hurt on the left and right sides - it is the liver and spleen that suffer from excessive works"
+  },
+  "design": {
+    "title": "Learn more",
+    "desc": "Still have questions? We will be happy to answer them at any time convenient for you",
+    "button": "Ask us"
+  },
+  "footer": {
+    "whyWe": "Why we",
+    "howIsWork": "How it works",
+    "advantages": "Advantages",
+    "price": "Price",
+    "askUs": "Ask Us"
+  }
+}
